@@ -43,7 +43,7 @@ source-control-host = "gitlab"
 The default content generated is the following:
 
 ```
-Found a bug? <a href="/link/to/edit/page">Edit this file on Gitlab.</a>
+Found a bug? <a href="https://git.host.com/repo/project/branch/edit/chapter.md">Edit this file on GitHub.</a>
 ```
 
 Both the text before and inside the `<a>` tag may be customised:
