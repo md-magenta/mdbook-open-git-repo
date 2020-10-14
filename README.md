@@ -5,7 +5,7 @@ A preprocessor for [mdbook][] to add an edit link on every page. Forked and adap
 self-hosted GitLab instance.
 
 [mdbook]: https://github.com/rust-lang/mdBook
-[mdbook-open-git-repo]: https://github.com/badboy/mdbook-open-on-gh
+[mdbook-open-on-gh]: https://github.com/badboy/mdbook-open-on-gh
 
 It adds a customisable link (default: "Edit this file on GitHub.") on the bottom
 of every page, linking directly to the source file. It uses the configured
